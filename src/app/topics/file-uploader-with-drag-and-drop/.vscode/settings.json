@@ -1,0 +1,5 @@
+{
+	// set line width 80 characters
+	"editor.wordWrapColumn": 80,
+	"editor.wordWrap": "wordWrapColumn"
+}
